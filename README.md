@@ -1,2 +1,2 @@
 # Belajar-Flutter
-Belajar dasar dasar Flutter. File ini diupload sebagai backup saja. Keep learning hehehe
+Belajar dasar dasar Flutter. File ini diupload sebagai backup saja. 
